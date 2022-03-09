@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+## Privacy policy
 
-You can use the [editor on GitHub](https://github.com/CMiguelRB/vieiros_web/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut tincidunt, lectus quis dapibus vulputate, quam diam viverra elit, quis tempus sem ante ac tortor. Maecenas et lobortis metus, id aliquet ante. Aliquam ac hendrerit felis, euismod scelerisque enim. Fusce tempus mauris nibh, eget sodales quam eleifend non. Phasellus pulvinar, enim eu fermentum auctor, velit neque vulputate erat, at congue libero ipsum id elit. Curabitur ut cursus purus. In posuere lorem a ex faucibus, eu tempus ex efficitur. Ut eleifend sapien eget turpis aliquam, sed ultricies leo condimentum. Fusce gravida lorem eu massa viverra viverra. Donec feugiat viverra enim, in aliquam lectus ultricies vitae. Praesent id lorem quis ante tincidunt porta. Nullam sit amet dictum lectus, vel efficitur est. Nulla mollis et odio in bibendum. Aenean at mi libero. Maecenas imperdiet odio sed commodo condimentum. Vivamus tincidunt molestie orci sed hendrerit.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Aliquam ultricies orci vitae hendrerit efficitur. Aliquam vehicula nunc convallis, pharetra quam quis, hendrerit turpis. Nulla pretium pulvinar arcu viverra egestas. Aenean dignissim libero elit, non tempor velit ullamcorper id. Duis non ante est. Maecenas viverra, lacus et varius vestibulum, ex lacus aliquet lectus, eu tempor metus lacus vitae felis. Etiam a sagittis sem. In dignissim nibh ex. Phasellus at diam vitae ex cursus egestas. Nulla tempor magna pretium, accumsan dolor eu, viverra odio. Aenean porttitor scelerisque nulla sit amet sodales. Sed sed interdum felis. Ut elementum augue odio, in accumsan est tristique vel. Sed sed justo lacus.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CMiguelRB/vieiros_web/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Cras imperdiet orci a venenatis dignissim. Cras tortor arcu, consectetur vel felis in, lobortis fermentum ligula. In feugiat vel dui et pellentesque. Sed rutrum eros et lacus sollicitudin mollis. Morbi blandit, justo vel dictum aliquam, sapien odio convallis tellus, ac lobortis lectus eros sed massa. Donec feugiat ipsum quis consectetur mattis. Morbi lacus dui, ullamcorper nec felis at, porta luctus sapien. Cras mattis sagittis dui. Praesent lobortis, metus et porttitor viverra, ante mauris molestie orci, nec ultricies mi mauris sed leo. Pellentesque sed mauris enim. Maecenas blandit iaculis metus, id convallis turpis tristique vitae. Donec rutrum dui ac urna hendrerit, vel cursus metus ullamcorper. Ut eget bibendum ex. Vivamus elementum purus a odio sagittis vestibulum. Aenean pellentesque dui non magna vulputate, vitae feugiat massa venenatis. In in arcu fringilla, semper urna nec, tincidunt elit.
