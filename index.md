@@ -1,4 +1,4 @@
-## Privacy policy
+<!-- ## Privacy policy-->
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut tincidunt, lectus quis dapibus vulputate, quam diam viverra elit, quis tempus sem ante ac tortor. Maecenas et lobortis metus, id aliquet ante. Aliquam ac hendrerit felis, euismod scelerisque enim. Fusce tempus mauris nibh, eget sodales quam eleifend non. Phasellus pulvinar, enim eu fermentum auctor, velit neque vulputate erat, at congue libero ipsum id elit. Curabitur ut cursus purus. In posuere lorem a ex faucibus, eu tempus ex efficitur. Ut eleifend sapien eget turpis aliquam, sed ultricies leo condimentum. Fusce gravida lorem eu massa viverra viverra. Donec feugiat viverra enim, in aliquam lectus ultricies vitae. Praesent id lorem quis ante tincidunt porta. Nullam sit amet dictum lectus, vel efficitur est. Nulla mollis et odio in bibendum. Aenean at mi libero. Maecenas imperdiet odio sed commodo condimentum. Vivamus tincidunt molestie orci sed hendrerit.
 
