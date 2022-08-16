@@ -1,7 +1,22 @@
 <!-- ## Privacy policy-->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut tincidunt, lectus quis dapibus vulputate, quam diam viverra elit, quis tempus sem ante ac tortor. Maecenas et lobortis metus, id aliquet ante. Aliquam ac hendrerit felis, euismod scelerisque enim. Fusce tempus mauris nibh, eget sodales quam eleifend non. Phasellus pulvinar, enim eu fermentum auctor, velit neque vulputate erat, at congue libero ipsum id elit. Curabitur ut cursus purus. In posuere lorem a ex faucibus, eu tempus ex efficitur. Ut eleifend sapien eget turpis aliquam, sed ultricies leo condimentum. Fusce gravida lorem eu massa viverra viverra. Donec feugiat viverra enim, in aliquam lectus ultricies vitae. Praesent id lorem quis ante tincidunt porta. Nullam sit amet dictum lectus, vel efficitur est. Nulla mollis et odio in bibendum. Aenean at mi libero. Maecenas imperdiet odio sed commodo condimentum. Vivamus tincidunt molestie orci sed hendrerit.
+This Privacy Policy document explains what information is collected by Vieiros and how we use it.
 
-Aliquam ultricies orci vitae hendrerit efficitur. Aliquam vehicula nunc convallis, pharetra quam quis, hendrerit turpis. Nulla pretium pulvinar arcu viverra egestas. Aenean dignissim libero elit, non tempor velit ullamcorper id. Duis non ante est. Maecenas viverra, lacus et varius vestibulum, ex lacus aliquet lectus, eu tempor metus lacus vitae felis. Etiam a sagittis sem. In dignissim nibh ex. Phasellus at diam vitae ex cursus egestas. Nulla tempor magna pretium, accumsan dolor eu, viverra odio. Aenean porttitor scelerisque nulla sit amet sodales. Sed sed interdum felis. Ut elementum augue odio, in accumsan est tristique vel. Sed sed justo lacus.
+If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us at rabo.tech.corporation@gmail.com.
 
-Cras imperdiet orci a venenatis dignissim. Cras tortor arcu, consectetur vel felis in, lobortis fermentum ligula. In feugiat vel dui et pellentesque. Sed rutrum eros et lacus sollicitudin mollis. Morbi blandit, justo vel dictum aliquam, sapien odio convallis tellus, ac lobortis lectus eros sed massa. Donec feugiat ipsum quis consectetur mattis. Morbi lacus dui, ullamcorper nec felis at, porta luctus sapien. Cras mattis sagittis dui. Praesent lobortis, metus et porttitor viverra, ante mauris molestie orci, nec ultricies mi mauris sed leo. Pellentesque sed mauris enim. Maecenas blandit iaculis metus, id convallis turpis tristique vitae. Donec rutrum dui ac urna hendrerit, vel cursus metus ullamcorper. Ut eget bibendum ex. Vivamus elementum purus a odio sagittis vestibulum. Aenean pellentesque dui non magna vulputate, vitae feugiat massa venenatis. In in arcu fringilla, semper urna nec, tincidunt elit.
+Consent
+By using Vieiros app, you hereby consent to our Privacy Policy and agree to its terms.
+
+# Information we collect
+We collect anonymous crash information used solely to improve the app. No personal information is collected.
+
+# Location
+We do not collect any locations recorded by the app. You are the owner of the location data recorded. The location data won't be sent to anywhere but the people/services you decide to share it by the sharing feature.
+
+# Advertising Privacy Policies
+We do not advertise in the app or track you in any way.
+
+# Children’s Information
+We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.
+
+Vieiros does not collect any Personal Identifiable Information from children.
